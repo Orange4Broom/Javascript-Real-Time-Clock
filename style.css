@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&display=swap');
+
 :root {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Barlow', sans-serif;
     color: whitesmoke;
 }
 
@@ -11,7 +13,7 @@ body  {
     height: 100vh;
     width: 100%;
     overflow: hidden;
-    background-color: rgb(215, 88, 9);
+    background-color: rgb(221, 40, 49);
     color: whitesmoke;
 }
 
